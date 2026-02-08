@@ -4,7 +4,7 @@
   align="right"
 />
 
-<h1 align="center">Hey I'm Aryan Sharma</h1>
+<h2 align="center">Hey I'm Aryan Sharma</h2>
 <p align="center">
   MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
 </p>
@@ -58,6 +58,7 @@
 
 ---
 
+# Contributions Stats
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Aryansharma-ent/Aryansharma-ent/output/pacman-contribution-graph-dark.svg">
@@ -67,12 +68,6 @@
     src="https://raw.githubusercontent.com/Aryansharma-ent/Aryansharma-ent/output/pacman-contribution-graph.svg">
 </picture>
 
-
-## 🟨 Activity Graph
-<!-- Clean & light: use activity graph instead of the pacman svg (less setup) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryansharma-ent&theme=dracula&hide_border=true" />
-</p>
 
 ---
 
