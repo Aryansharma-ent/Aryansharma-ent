@@ -1,15 +1,8 @@
-<img 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  width="180" 
-  align="right"
-/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" align="right"/>
 
---- 
+## Hey, I'm Aryan Sharma 👋
 
-<h1 align="center">Hey I'm Aryan Sharma</h1>
-<p align="center">
-  MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
-</p>
+MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
 
 <br/>
 <br/>
