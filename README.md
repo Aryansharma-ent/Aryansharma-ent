@@ -1,25 +1,74 @@
-Hi 👋 My name is Aryan Sharma
-=============================
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [aryansha342@gmail.com](mailto:aryansha342@gmail.com)
-* 🧠  I'm currently learning Typescript
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<h1 align="center">Hey 👋 I'm Aryan Sharma</h1>
+<p align="center">
+  MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Aryansharma-ent" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/aryan28027" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
-### Badges
+## 👨‍💻 About Me
+- 🚀 MERN developer (still learning) — built **2–3 small projects**
+- 🔐 Working on a project with **JWT authentication**
+- 🧠 Learning **Redux / Redux Toolkit**
+- 📌 Next up: **TypeScript**
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Aryansharma-ent"><img src="https://github-readme-stats.vercel.app/api?username=Aryansharma-ent&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aryansharma-ent's GitHub stats" /></a>
+## 🛠 Tech Stack
+<p align="center">
+  <!-- MERN -->
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="45" />
+  <img width="10" />
+  <!-- Tools / languages -->
+  <img src="https://skillicons.dev/icons?i=js,cpp,git,github,postman" height="45" />
+  <img width="10" />
+  <!-- Learning -->
+  <img src="https://skillicons.dev/icons?i=redux,ts" height="45" />
+</p>
 
-<a href="http://www.github.com/Aryansharma-ent"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryansharma-ent&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<b>Top Repositories</b>
+## 🔗 Connect With Me
+<p align="center">
+  <!-- Replace links with your own -->
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" />
+  </a>
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/Aryansharma-ent/AI-Study-Planner" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryansharma-ent&repo=AI-Study-Planner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&margin-w=8&margin-h=8" height="150" />
+</p>
+
+---
+
+## 🟨 Activity Graph
+<!-- Clean & light: use activity graph instead of the pacman svg (less setup) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Projects
+> Add your best 2–3 projects here (with links + short line)
+
+- 📒 **Notes App (MERN CRUD)** — Add, edit, delete notes  
+- 🧠 **AI Study Planner** — Generates study plans and shows them in UI  
+- 🔐 **JWT Auth + Redux Project (WIP)** — Auth + protected routes + state management
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+</p>
+
