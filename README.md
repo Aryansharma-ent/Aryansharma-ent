@@ -52,7 +52,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aryansharma-ent&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryansharma-ent&theme=dracula&no-frame=true&margin-w=8&margin-h=8" height="150" />
 </p>
 
 ---
