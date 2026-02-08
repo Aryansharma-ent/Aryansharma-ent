@@ -29,7 +29,6 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <!-- Replace links with your own -->
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
@@ -54,13 +53,12 @@
 ## 🟨 Activity Graph
 <!-- Clean & light: use activity graph instead of the pacman svg (less setup) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryansharma-ent&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-> Add your best 2–3 projects here (with links + short line)
 
 - 📒 **Notes App (MERN CRUD)** — Add, edit, delete notes  
 - 🧠 **AI Study Planner** — Generates study plans and shows them in UI  
