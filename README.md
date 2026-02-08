@@ -9,6 +9,10 @@
   MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
 </p>
 
+<br/>
+<br/>
+<br/>
+
 ---
 
 ## 👨‍💻 About Me
