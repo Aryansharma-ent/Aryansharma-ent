@@ -1,12 +1,16 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" align="right"/>
-
-## Hey, I'm Aryan Sharma 👋
-
-MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
-
-<br/>
-<br/>
-<br/>
+<table>
+  <tr>
+    <td>
+      <h2>Hey, I'm Aryan Sharma 👋</h2>
+      <p>
+        MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
+      </p>
+    </td>
+    <td align="right">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="170"/>
+    </td>
+  </tr>
+</table>
 
 ## 👨‍💻 About Me
 - 🚀 MERN developer (still learning) — built **2–3 small projects**
