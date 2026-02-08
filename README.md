@@ -13,8 +13,6 @@
 <br/>
 <br/>
 
----
-
 ## 👨‍💻 About Me
 - 🚀 MERN developer (still learning) — built **2–3 small projects**
 - 🔐 Working on a project with **JWT authentication**
