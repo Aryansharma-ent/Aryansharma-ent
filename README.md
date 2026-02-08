@@ -1,3 +1,9 @@
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  width="180" 
+  align="right"
+/>
+
 <h1 align="center">Hey I'm Aryan Sharma</h1>
 <p align="center">
   MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
@@ -75,8 +81,4 @@
 - 🔐 **JWT Auth + Redux Project (WIP)** — Auth + protected routes + state management
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-</p>
 
