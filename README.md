@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Aryan Sharma</h1>
+<h1 align="center">Hey I'm Aryan Sharma</h1>
 <p align="center">
   MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
 </p>
