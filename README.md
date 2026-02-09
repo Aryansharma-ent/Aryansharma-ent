@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h1>Hey, I'm Aryan Sharma 👋</h1>
+      <h1>Hey, I'm Aryan Sharma </h1>
       <p>
         MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
       </p>
