@@ -13,10 +13,19 @@
 </table>
 
 ## 👨‍💻 About Me
-- 🚀 MERN developer (still learning) — built **2–3 small projects**
-- 🔐 Working on a project with **JWT authentication**
-- 🧠 Learning **Redux / Redux Toolkit**
-- 📌 Next up: **TypeScript**
+Hi!,I am Aryan, a Computer Science student and aspiring Full Stack Developer who enjoys building web applications and learning how software works under the hood.
+
+I’m currently working with JavaScript, TypeScript, React, Node.js, Express.js, and MongoDB, while also exploring Docker, CI/CD, and modern development workflows.
+
+I enjoy building projects, solving problems with code, and continuously improving my understanding of software engineering and backend systems.
+
+Currently focused on:
+
+* Full-stack web development
+* Backend & API development
+* DevOps and CI/CD
+* Data Structures & Algorithms
+* Building and shipping real-world projects
 
 ---
 
@@ -69,11 +78,5 @@
 
 ---
 
-## 📌 Featured Projects
 
-- 📒 **Notes App (MERN CRUD)** — Add, edit, delete notes  
-- 🧠 **AI Study Planner** — Generates study plans and shows them in UI  
-- 🔐 **JWT Auth + Redux Project (WIP)** — Auth + protected routes + state management
-
----
 
