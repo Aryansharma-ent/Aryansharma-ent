@@ -13,7 +13,7 @@
 </table>
 
 ## 👨‍💻 About Me
-Hi!,I am Aryan, a Computer Science student and aspiring Full Stack Developer who enjoys building web applications and learning how software works under the hood.
+Computer Science student and aspiring Full Stack Developer who enjoys building web applications and learning how software works under the hood.
 
 I’m currently working with JavaScript, TypeScript, React, Node.js, Express.js, and MongoDB, while also exploring Docker, CI/CD, and modern development workflows.
 
