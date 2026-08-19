@@ -1,16 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <h1>Hey, I'm Aryan Sharma </h1>
-      <p>
-        MERN Developer (learning) • Building projects • Currently learning Redux + JWT Auth • Next: TypeScript
-      </p>
-    </td>
-    <td align="right">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="170"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Aryan 👋 I'm a developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 ## 👨‍💻 About Me
 Computer Science student and aspiring Full Stack Developer who enjoys building web applications and learning how software works under the hood.
