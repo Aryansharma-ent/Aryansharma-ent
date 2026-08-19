@@ -1,5 +1,5 @@
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/Aryansharma-ent/Aryansharma-ent@main/banner.gif" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/Aryansharma-ent/Aryansharma-ent@main/githubBanner.gif" width="100%">
 </p>
 
 
