@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Aryan 👋 I'm a developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
 
 ## 👨‍💻 About Me
 Computer Science student and aspiring Full Stack Developer who enjoys building web applications and learning how software works under the hood.
