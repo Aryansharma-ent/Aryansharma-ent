@@ -1,3 +1,7 @@
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/Aryansharma-ent/Aryansharma-ent@main/banner.gif" width="100%">
+</p>
+
 
 ## 👨‍💻 About Me
 Computer Science student and aspiring Full Stack Developer who enjoys building web applications and learning how software works under the hood.
